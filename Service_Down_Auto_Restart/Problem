@@ -1,0 +1,4 @@
+Scenario:
+If nginx/apache stops -->  restart automatically.
+
+Real world: Auto-healing system
